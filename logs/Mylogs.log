@@ -1,0 +1,298 @@
+[INFO ] 2022-03-16 21:26:06.326 [main] BaseClass - open Url
+[INFO ] 2022-03-16 21:26:07.578 [main] BaseClass - URL is opened
+[INFO ] 2022-03-16 21:45:26.010 [main] BaseClass - open Url
+[INFO ] 2022-03-16 21:45:27.882 [main] BaseClass - URL is opened
+[INFO ] 2022-03-16 21:48:40.106 [main] BaseClass - open Url
+[INFO ] 2022-03-16 21:48:41.471 [main] BaseClass - URL is opened
+[INFO ] 2022-03-17 15:09:25.453 [main] BaseClass - open Url
+[INFO ] 2022-03-17 15:10:13.555 [main] BaseClass - open Url
+[INFO ] 2022-03-17 15:11:09.156 [main] BaseClass - open Url
+[INFO ] 2022-03-17 15:11:14.538 [main] BaseClass - URL is opened
+[INFO ] 2022-03-18 12:13:33.587 [main] BaseClass - open Url
+[INFO ] 2022-03-18 12:13:37.786 [main] BaseClass - URL is opened
+[INFO ] 2022-03-18 13:33:04.254 [main] BaseClass - open Url
+[INFO ] 2022-03-18 13:33:06.309 [main] BaseClass - URL is opened
+[INFO ] 2022-03-18 14:09:35.403 [main] BaseClass - open Url
+[INFO ] 2022-03-18 14:09:35.404 [main] BaseClass - URL is opened
+[INFO ] 2022-03-18 14:09:35.474 [main] BaseClass - Entered username
+[INFO ] 2022-03-18 14:09:35.508 [main] BaseClass - Entered password
+[INFO ] 2022-03-18 14:17:45.450 [main] BaseClass - open Url
+[INFO ] 2022-03-18 14:17:45.452 [main] BaseClass - URL is opened
+[INFO ] 2022-03-18 14:17:45.507 [main] BaseClass - Entered username
+[INFO ] 2022-03-18 14:17:45.540 [main] BaseClass - Entered password
+[INFO ] 2022-03-18 16:13:13.065 [main] BaseClass - open Url
+[INFO ] 2022-03-18 16:13:13.067 [main] BaseClass - URL is opened
+[INFO ] 2022-03-18 16:13:13.128 [main] BaseClass - Entered username
+[INFO ] 2022-03-18 16:13:13.160 [main] BaseClass - Entered password
+[INFO ] 2022-03-18 16:19:57.875 [main] BaseClass - open Url
+[INFO ] 2022-03-18 16:19:57.876 [main] BaseClass - URL is opened
+[INFO ] 2022-03-18 16:19:57.938 [main] BaseClass - Entered username
+[INFO ] 2022-03-18 16:19:58.009 [main] BaseClass - Entered password
+[INFO ] 2022-03-18 16:43:01.577 [main] BaseClass - open Url
+[INFO ] 2022-03-18 16:43:01.579 [main] BaseClass - URL is opened
+[INFO ] 2022-03-18 16:43:01.632 [main] BaseClass - Entered username
+[INFO ] 2022-03-18 16:43:01.666 [main] BaseClass - Entered password
+[INFO ] 2022-03-18 16:45:17.213 [main] BaseClass - open Url
+[INFO ] 2022-03-18 16:45:17.215 [main] BaseClass - URL is opened
+[INFO ] 2022-03-18 16:45:17.276 [main] BaseClass - Entered username
+[INFO ] 2022-03-18 16:45:17.310 [main] BaseClass - Entered password
+[INFO ] 2022-03-18 16:47:22.903 [main] BaseClass - open Url
+[INFO ] 2022-03-18 16:47:22.904 [main] BaseClass - URL is opened
+[INFO ] 2022-03-18 16:47:22.963 [main] BaseClass - Entered username
+[INFO ] 2022-03-18 16:47:22.997 [main] BaseClass - Entered password
+[INFO ] 2022-03-19 18:40:38.461 [main] BaseClass - user name provided
+[INFO ] 2022-03-19 18:40:38.503 [main] BaseClass - password provided
+[INFO ] 2022-03-19 18:40:39.542 [main] BaseClass - user name provided
+[INFO ] 2022-03-19 18:40:39.572 [main] BaseClass - password provided
+[INFO ] 2022-03-19 18:40:41.136 [main] BaseClass - user name provided
+[INFO ] 2022-03-19 18:40:41.208 [main] BaseClass - password provided
+[INFO ] 2022-03-19 18:40:44.714 [main] BaseClass - user name provided
+[INFO ] 2022-03-19 18:40:44.783 [main] BaseClass - password provided
+[INFO ] 2022-03-19 18:40:47.163 [main] BaseClass - user name provided
+[INFO ] 2022-03-19 18:40:47.228 [main] BaseClass - password provided
+[INFO ] 2022-03-19 21:55:18.589 [main] BaseClass - providing customer details....
+[INFO ] 2022-03-19 21:59:46.703 [main] BaseClass - providing customer details....
+[INFO ] 2022-03-19 22:05:43.390 [main] BaseClass - providing customer details....
+[INFO ] 2022-03-19 22:17:58.793 [main] BaseClass - providing customer details....
+[INFO ] 2022-03-19 22:24:09.624 [main] BaseClass - providing customer details....
+[INFO ] 2022-03-19 22:24:39.699 [main] BaseClass - name entered
+[INFO ] 2022-03-19 22:24:45.056 [main] BaseClass - custpassword entered
+[INFO ] 2022-03-19 22:24:48.092 [main] BaseClass - validation started....
+[INFO ] 2022-03-19 22:24:48.101 [main] BaseClass - test case failed....
+[INFO ] 2022-03-19 22:38:01.376 [main] BaseClass - providing customer details....
+[INFO ] 2022-03-19 22:38:31.446 [main] BaseClass - name entered
+[INFO ] 2022-03-19 22:38:36.815 [main] BaseClass - custpassword entered
+[INFO ] 2022-03-19 22:38:39.851 [main] BaseClass - validation started....
+[INFO ] 2022-03-19 22:38:39.859 [main] BaseClass - test case failed....
+[INFO ] 2022-03-19 22:46:32.165 [main] BaseClass - providing customer details....
+[INFO ] 2022-03-19 22:47:02.261 [main] BaseClass - name entered
+[INFO ] 2022-03-19 22:47:07.653 [main] BaseClass - custpassword entered
+[INFO ] 2022-03-19 22:47:10.700 [main] BaseClass - validation started....
+[INFO ] 2022-03-19 22:47:10.709 [main] BaseClass - test case failed....
+[INFO ] 2022-03-19 22:49:38.674 [main] BaseClass - providing customer details....
+[INFO ] 2022-03-19 22:50:08.747 [main] BaseClass - name entered
+[INFO ] 2022-03-19 22:50:14.101 [main] BaseClass - custpassword entered
+[INFO ] 2022-03-19 22:50:17.137 [main] BaseClass - validation started....
+[INFO ] 2022-03-19 22:50:17.145 [main] BaseClass - test case failed....
+[INFO ] 2022-03-19 22:53:39.256 [main] BaseClass - providing customer details....
+[INFO ] 2022-03-19 22:54:09.319 [main] BaseClass - name entered
+[INFO ] 2022-03-19 22:54:14.686 [main] BaseClass - custpassword entered
+[INFO ] 2022-03-19 22:54:17.722 [main] BaseClass - validation started....
+[INFO ] 2022-03-19 22:54:17.737 [main] BaseClass - test case failed....
+[INFO ] 2022-03-19 22:57:30.320 [main] BaseClass - providing customer details....
+[INFO ] 2022-03-19 22:58:00.396 [main] BaseClass - name entered
+[INFO ] 2022-03-19 22:58:05.772 [main] BaseClass - custpassword entered
+[INFO ] 2022-03-19 22:58:08.812 [main] BaseClass - validation started....
+[INFO ] 2022-03-19 22:58:08.819 [main] BaseClass - test case failed....
+[INFO ] 2022-03-19 23:01:43.921 [main] BaseClass - providing customer details....
+[INFO ] 2022-03-19 23:02:14.009 [main] BaseClass - name entered
+[INFO ] 2022-03-19 23:02:19.363 [main] BaseClass - custpassword entered
+[INFO ] 2022-03-19 23:02:22.396 [main] BaseClass - validation started....
+[INFO ] 2022-03-19 23:09:15.210 [main] BaseClass - providing customer details....
+[INFO ] 2022-03-19 23:09:45.285 [main] BaseClass - name entered
+[INFO ] 2022-03-19 23:09:50.639 [main] BaseClass - custpassword entered
+[INFO ] 2022-03-19 23:09:53.640 [main] BaseClass - validation started....
+[INFO ] 2022-03-19 23:15:44.881 [main] BaseClass - providing customer details....
+[INFO ] 2022-03-19 23:16:14.952 [main] BaseClass - name entered
+[INFO ] 2022-03-19 23:16:20.330 [main] BaseClass - custpassword entered
+[INFO ] 2022-03-19 23:16:23.340 [main] BaseClass - validation started....
+[INFO ] 2022-03-19 23:17:23.069 [main] BaseClass - providing customer details....
+[INFO ] 2022-03-19 23:17:53.131 [main] BaseClass - name entered
+[INFO ] 2022-03-19 23:17:58.477 [main] BaseClass - custpassword entered
+[INFO ] 2022-03-19 23:18:05.531 [main] BaseClass - validation started....
+[INFO ] 2022-03-19 23:18:05.565 [main] BaseClass - test case passed....
+[INFO ] 2022-03-19 23:20:12.226 [main] BaseClass - open Url
+[INFO ] 2022-03-19 23:20:12.227 [main] BaseClass - URL is opened
+[INFO ] 2022-03-19 23:20:12.282 [main] BaseClass - Entered username
+[INFO ] 2022-03-19 23:20:12.315 [main] BaseClass - Entered password
+[INFO ] 2022-03-19 23:20:22.028 [main] BaseClass - user name provided
+[INFO ] 2022-03-19 23:20:22.070 [main] BaseClass - password provided
+[INFO ] 2022-03-19 23:20:23.768 [main] BaseClass - login passed
+[INFO ] 2022-03-19 23:20:27.064 [main] BaseClass - user name provided
+[INFO ] 2022-03-19 23:20:27.198 [main] BaseClass - password provided
+[INFO ] 2022-03-19 23:20:30.306 [main] BaseClass - user name provided
+[INFO ] 2022-03-19 23:20:30.375 [main] BaseClass - password provided
+[INFO ] 2022-03-19 23:20:32.221 [main] BaseClass - login passed
+[INFO ] 2022-03-19 23:20:35.681 [main] BaseClass - user name provided
+[INFO ] 2022-03-19 23:20:35.752 [main] BaseClass - password provided
+[INFO ] 2022-03-19 23:20:38.142 [main] BaseClass - user name provided
+[INFO ] 2022-03-19 23:20:38.201 [main] BaseClass - password provided
+[INFO ] 2022-03-19 23:20:56.559 [main] BaseClass - providing customer details....
+[INFO ] 2022-03-19 23:21:26.620 [main] BaseClass - name entered
+[INFO ] 2022-03-19 23:21:31.963 [main] BaseClass - custpassword entered
+[INFO ] 2022-03-19 23:21:36.432 [main] BaseClass - validation started....
+[INFO ] 2022-03-19 23:21:36.441 [main] BaseClass - test case passed....
+[INFO ] 2022-03-26 17:27:36.314 [main] BaseClass - open Url
+[INFO ] 2022-03-26 17:27:36.317 [main] BaseClass - URL is opened
+[INFO ] 2022-03-26 17:27:36.380 [main] BaseClass - Entered username
+[INFO ] 2022-03-26 17:27:36.417 [main] BaseClass - Entered password
+[INFO ] 2022-03-26 17:27:39.999 [main] BaseClass - user name provided
+[INFO ] 2022-03-26 17:27:40.117 [main] BaseClass - password provided
+[INFO ] 2022-03-26 17:27:40.754 [main] BaseClass - login passed
+[INFO ] 2022-03-26 17:27:41.815 [main] BaseClass - user name provided
+[INFO ] 2022-03-26 17:27:41.910 [main] BaseClass - password provided
+[INFO ] 2022-03-26 17:27:42.676 [main] BaseClass - user name provided
+[INFO ] 2022-03-26 17:27:42.742 [main] BaseClass - password provided
+[INFO ] 2022-03-26 17:27:43.355 [main] BaseClass - login passed
+[INFO ] 2022-03-26 17:27:44.224 [main] BaseClass - user name provided
+[INFO ] 2022-03-26 17:27:44.286 [main] BaseClass - password provided
+[INFO ] 2022-03-26 17:27:45.070 [main] BaseClass - user name provided
+[INFO ] 2022-03-26 17:27:45.140 [main] BaseClass - password provided
+[INFO ] 2022-03-26 17:27:52.012 [main] BaseClass - providing customer details....
+[INFO ] 2022-03-26 17:30:09.237 [main] BaseClass - open Url
+[INFO ] 2022-03-26 17:30:09.238 [main] BaseClass - URL is opened
+[INFO ] 2022-03-26 17:30:09.298 [main] BaseClass - Entered username
+[INFO ] 2022-03-26 17:30:09.334 [main] BaseClass - Entered password
+[INFO ] 2022-03-26 17:30:12.985 [main] BaseClass - user name provided
+[INFO ] 2022-03-26 17:30:13.034 [main] BaseClass - password provided
+[INFO ] 2022-03-26 17:30:13.697 [main] BaseClass - login passed
+[INFO ] 2022-03-26 17:30:14.569 [main] BaseClass - user name provided
+[INFO ] 2022-03-26 17:30:14.632 [main] BaseClass - password provided
+[INFO ] 2022-03-26 17:30:15.614 [main] BaseClass - user name provided
+[INFO ] 2022-03-26 17:30:15.681 [main] BaseClass - password provided
+[INFO ] 2022-03-26 17:30:16.442 [main] BaseClass - login passed
+[INFO ] 2022-03-26 17:30:17.330 [main] BaseClass - user name provided
+[INFO ] 2022-03-26 17:30:17.399 [main] BaseClass - password provided
+[INFO ] 2022-03-26 17:30:18.121 [main] BaseClass - user name provided
+[INFO ] 2022-03-26 17:30:18.189 [main] BaseClass - password provided
+[INFO ] 2022-03-27 10:28:12.231 [main] BaseClass - open Url
+[INFO ] 2022-03-27 10:28:12.233 [main] BaseClass - URL is opened
+[INFO ] 2022-03-27 10:28:12.290 [main] BaseClass - Entered username
+[INFO ] 2022-03-27 10:28:12.328 [main] BaseClass - Entered password
+[INFO ] 2022-03-27 10:31:02.202 [main] BaseClass - open Url
+[INFO ] 2022-03-27 10:31:02.204 [main] BaseClass - URL is opened
+[INFO ] 2022-03-27 10:31:02.257 [main] BaseClass - Entered username
+[INFO ] 2022-03-27 10:31:02.290 [main] BaseClass - Entered password
+[INFO ] 2022-03-27 10:35:17.644 [main] BaseClass - open Url
+[INFO ] 2022-03-27 10:35:17.646 [main] BaseClass - URL is opened
+[INFO ] 2022-03-27 10:35:17.702 [main] BaseClass - Entered username
+[INFO ] 2022-03-27 10:35:17.735 [main] BaseClass - Entered password
+[INFO ] 2022-03-27 10:42:15.841 [main] BaseClass - open Url
+[INFO ] 2022-03-27 10:42:15.843 [main] BaseClass - URL is opened
+[INFO ] 2022-03-27 10:42:15.895 [main] BaseClass - Entered username
+[INFO ] 2022-03-27 10:42:15.929 [main] BaseClass - Entered password
+[INFO ] 2022-03-27 10:42:17.524 [main] BaseClass - login test passed
+[INFO ] 2022-05-08 11:57:01.960 [main] BaseClass - open Url
+[INFO ] 2022-05-08 11:57:01.962 [main] BaseClass - URL is opened
+[INFO ] 2022-05-08 11:57:02.026 [main] BaseClass - Entered username
+[INFO ] 2022-05-08 11:57:02.068 [main] BaseClass - Entered password
+[INFO ] 2022-05-08 12:03:52.351 [main] BaseClass - open Url
+[INFO ] 2022-05-08 12:03:52.353 [main] BaseClass - URL is opened
+[INFO ] 2022-05-08 12:03:52.409 [main] BaseClass - Entered username
+[INFO ] 2022-05-08 12:03:52.454 [main] BaseClass - Entered password
+[INFO ] 2022-05-08 12:03:53.313 [main] BaseClass - login test passed
+[INFO ] 2022-05-08 12:11:56.404 [main] BaseClass - open Url
+[INFO ] 2022-05-08 12:11:56.406 [main] BaseClass - URL is opened
+[INFO ] 2022-05-08 12:11:56.503 [main] BaseClass - Entered username
+[INFO ] 2022-05-08 12:11:56.546 [main] BaseClass - Entered password
+[INFO ] 2022-05-08 12:11:57.268 [main] BaseClass - login test passed
+[INFO ] 2022-05-08 12:12:03.397 [main] BaseClass - providing customer details....
+[INFO ] 2022-05-08 12:12:33.468 [main] BaseClass - name entered
+[INFO ] 2022-05-08 12:12:38.889 [main] BaseClass - custpassword entered
+[INFO ] 2022-05-08 12:12:41.924 [main] BaseClass - validation started....
+[INFO ] 2022-05-08 12:12:41.933 [main] BaseClass - test case failed....
+[INFO ] 2022-05-08 12:25:59.485 [main] BaseClass - open Url
+[INFO ] 2022-05-08 12:25:59.487 [main] BaseClass - URL is opened
+[INFO ] 2022-05-08 12:25:59.543 [main] BaseClass - Entered username
+[INFO ] 2022-05-08 12:25:59.586 [main] BaseClass - Entered password
+[INFO ] 2022-05-08 12:26:00.445 [main] BaseClass - login test passed
+[INFO ] 2022-05-08 12:26:06.934 [main] BaseClass - providing customer details....
+[INFO ] 2022-05-08 12:26:37.004 [main] BaseClass - name entered
+[INFO ] 2022-05-08 12:26:42.432 [main] BaseClass - custpassword entered
+[INFO ] 2022-05-08 12:26:45.475 [main] BaseClass - validation started....
+[INFO ] 2022-05-08 12:32:38.127 [main] BaseClass - open Url
+[INFO ] 2022-05-08 12:32:38.129 [main] BaseClass - URL is opened
+[INFO ] 2022-05-08 12:32:38.186 [main] BaseClass - Entered username
+[INFO ] 2022-05-08 12:32:38.230 [main] BaseClass - Entered password
+[INFO ] 2022-05-08 12:32:38.926 [main] BaseClass - login test passed
+[INFO ] 2022-05-08 12:32:45.189 [main] BaseClass - providing customer details....
+[INFO ] 2022-05-08 12:33:15.262 [main] BaseClass - name entered
+[INFO ] 2022-05-08 12:33:20.701 [main] BaseClass - custpassword entered
+[INFO ] 2022-05-08 12:33:24.539 [main] BaseClass - validation started....
+[INFO ] 2022-05-08 12:33:24.556 [main] BaseClass - test case passed....
+[INFO ] 2022-05-08 12:33:59.613 [main] BaseClass - open Url
+[INFO ] 2022-05-08 12:33:59.615 [main] BaseClass - URL is opened
+[INFO ] 2022-05-08 12:33:59.668 [main] BaseClass - Entered username
+[INFO ] 2022-05-08 12:33:59.711 [main] BaseClass - Entered password
+[INFO ] 2022-05-08 12:34:00.514 [main] BaseClass - login test passed
+[INFO ] 2022-05-08 12:34:06.892 [main] BaseClass - providing customer details....
+[INFO ] 2022-05-08 12:34:36.966 [main] BaseClass - name entered
+[INFO ] 2022-05-08 12:34:42.404 [main] BaseClass - custpassword entered
+[INFO ] 2022-05-08 12:34:46.239 [main] BaseClass - validation started....
+[INFO ] 2022-05-08 12:34:46.259 [main] BaseClass - test case passed....
+[INFO ] 2022-05-08 13:06:07.074 [main] BaseClass - open Url
+[INFO ] 2022-05-08 13:06:07.076 [main] BaseClass - URL is opened
+[INFO ] 2022-05-08 13:06:07.152 [main] BaseClass - Entered username
+[INFO ] 2022-05-08 13:06:07.198 [main] BaseClass - Entered password
+[INFO ] 2022-05-08 13:06:08.773 [main] BaseClass - login test passed
+[INFO ] 2022-05-08 13:06:16.293 [main] BaseClass - providing customer details....
+[INFO ] 2022-05-08 13:07:55.088 [main] BaseClass - open Url
+[INFO ] 2022-05-08 13:07:55.090 [main] BaseClass - URL is opened
+[INFO ] 2022-05-08 13:07:55.154 [main] BaseClass - Entered username
+[INFO ] 2022-05-08 13:07:55.197 [main] BaseClass - Entered password
+[INFO ] 2022-05-08 13:07:55.925 [main] BaseClass - login test passed
+[INFO ] 2022-05-08 13:08:04.376 [main] BaseClass - providing customer details....
+[INFO ] 2022-05-08 13:08:34.436 [main] BaseClass - name entered
+[INFO ] 2022-05-08 13:08:39.855 [main] BaseClass - custpassword entered
+[INFO ] 2022-05-08 13:08:43.975 [main] BaseClass - validation started....
+[INFO ] 2022-05-08 13:08:43.994 [main] BaseClass - test case passed....
+[INFO ] 2022-05-08 13:27:45.818 [main] BaseClass - open Url
+[INFO ] 2022-05-08 13:27:45.821 [main] BaseClass - URL is opened
+[INFO ] 2022-05-08 13:27:45.892 [main] BaseClass - Entered username
+[INFO ] 2022-05-08 13:27:45.944 [main] BaseClass - Entered password
+[INFO ] 2022-05-08 13:27:47.422 [main] BaseClass - login test passed
+[INFO ] 2022-05-08 13:27:54.600 [main] BaseClass - providing customer details....
+[INFO ] 2022-05-08 13:28:24.676 [main] BaseClass - name entered
+[INFO ] 2022-05-08 13:28:30.167 [main] BaseClass - custpassword entered
+[INFO ] 2022-05-08 13:28:33.997 [main] BaseClass - validation started....
+[INFO ] 2022-05-08 13:28:34.009 [main] BaseClass - test case passed....
+[INFO ] 2022-05-08 14:39:48.297 [main] BaseClass - open Url
+[INFO ] 2022-05-08 14:39:48.297 [main] BaseClass - URL is opened
+[INFO ] 2022-05-08 14:39:48.437 [main] BaseClass - Entered username
+[INFO ] 2022-05-08 14:39:48.546 [main] BaseClass - Entered password
+[INFO ] 2022-05-08 14:39:49.624 [main] BaseClass - login test passed
+[INFO ] 2022-05-08 14:39:57.872 [main] BaseClass - providing customer details....
+[INFO ] 2022-05-08 14:40:28.004 [main] BaseClass - name entered
+[INFO ] 2022-05-08 14:40:33.816 [main] BaseClass - custpassword entered
+[INFO ] 2022-05-08 14:40:38.114 [main] BaseClass - validation started....
+[INFO ] 2022-05-08 14:40:38.163 [main] BaseClass - test case passed....
+[INFO ] 2022-05-08 15:44:27.083 [main] BaseClass - open Url
+[INFO ] 2022-05-08 15:44:27.084 [main] BaseClass - URL is opened
+[INFO ] 2022-05-08 15:44:27.165 [main] BaseClass - Entered username
+[INFO ] 2022-05-08 15:44:27.224 [main] BaseClass - Entered password
+[INFO ] 2022-05-08 15:44:28.146 [main] BaseClass - login test passed
+[INFO ] 2022-05-08 15:45:18.585 [main] BaseClass - open Url
+[INFO ] 2022-05-08 15:45:18.585 [main] BaseClass - URL is opened
+[INFO ] 2022-05-08 15:45:18.710 [main] BaseClass - Entered username
+[INFO ] 2022-05-08 15:45:18.779 [main] BaseClass - Entered password
+[INFO ] 2022-05-08 15:45:19.580 [main] BaseClass - login test passed
+[INFO ] 2022-05-08 15:46:01.676 [main] BaseClass - open Url
+[INFO ] 2022-05-08 15:46:01.676 [main] BaseClass - URL is opened
+[INFO ] 2022-05-08 15:46:01.760 [main] BaseClass - Entered username
+[INFO ] 2022-05-08 15:46:01.821 [main] BaseClass - Entered password
+[INFO ] 2022-05-08 15:46:03.601 [main] BaseClass - login test passed
+[INFO ] 2022-05-08 15:47:38.725 [main] BaseClass - open Url
+[INFO ] 2022-05-08 15:47:38.725 [main] BaseClass - URL is opened
+[INFO ] 2022-05-08 15:47:38.814 [main] BaseClass - Entered username
+[INFO ] 2022-05-08 15:47:38.873 [main] BaseClass - Entered password
+[INFO ] 2022-05-08 15:47:39.691 [main] BaseClass - login test passed
+[INFO ] 2022-05-08 15:47:46.927 [main] BaseClass - providing customer details....
+[INFO ] 2022-05-08 15:48:58.576 [main] BaseClass - open Url
+[INFO ] 2022-05-08 15:48:58.579 [main] BaseClass - URL is opened
+[INFO ] 2022-05-08 15:48:58.659 [main] BaseClass - Entered username
+[INFO ] 2022-05-08 15:48:58.714 [main] BaseClass - Entered password
+[INFO ] 2022-05-08 15:49:00.247 [main] BaseClass - login test passed
+[INFO ] 2022-05-08 15:49:07.555 [main] BaseClass - providing customer details....
+[INFO ] 2022-05-08 15:49:37.665 [main] BaseClass - name entered
+[INFO ] 2022-05-08 15:49:43.276 [main] BaseClass - custpassword entered
+[INFO ] 2022-05-08 15:49:47.377 [main] BaseClass - validation started....
+[INFO ] 2022-05-08 15:49:47.393 [main] BaseClass - test case passed....
+[INFO ] 2022-05-08 15:50:20.002 [main] BaseClass - open Url
+[INFO ] 2022-05-08 15:50:20.010 [main] BaseClass - URL is opened
+[INFO ] 2022-05-08 15:50:20.109 [main] BaseClass - Entered username
+[INFO ] 2022-05-08 15:50:20.164 [main] BaseClass - Entered password
+[INFO ] 2022-05-08 15:50:21.447 [main] BaseClass - login test passed
+[INFO ] 2022-05-08 15:50:28.487 [main] BaseClass - providing customer details....
+[INFO ] 2022-05-08 15:50:58.584 [main] BaseClass - name entered
+[INFO ] 2022-05-08 15:51:04.123 [main] BaseClass - custpassword entered
+[INFO ] 2022-05-08 15:51:07.353 [main] BaseClass - validation started....
